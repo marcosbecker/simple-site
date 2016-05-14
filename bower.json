@@ -1,0 +1,21 @@
+{
+  "name": "cielo-admin",
+  "version": "1.0.0",
+  "homepage": "",
+  "authors": [],
+  "description": "Admin Cielo",
+  "main": "index.html",
+  "keywords": [],
+  "license": "BSD",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor"
+  ],
+  "dependencies": {
+    "normalize-css": "normalize.css#~3.0.3",
+    "jquery": "~2.1.4",
+    "respond": "~1.4.2"
+  }
+}

@@ -1,3 +1,26 @@
 @import (less) "../vendor/normalize-css/normalize.css";
 
+// Fonts for demonstration purpouses only - License may apply
+@import "fonts";
 @import "mixins";
+
+html {
+    font-size: 16px; // base font size for responsive font size of the other elements
+}
+
+h1 {
+    font-family: @font-bold;
+    color: @font-color;
+}
+
+h2 {
+    font-family: @font-light;
+    color: @font-color;
+}
+
+h3 {
+    font-family: @font-medium;
+    color: @font-color;
+}
+
+@import "responsive";

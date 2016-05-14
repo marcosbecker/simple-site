@@ -1,9 +1,9 @@
 {
-  "name": "cielo-admin",
+  "name": "simple-site",
   "version": "1.0.0",
   "homepage": "",
-  "authors": [],
-  "description": "Admin Cielo",
+  "authors": ["marcosbecker <marcosbecker@gmail.com>"],
+  "description": "The base for any simple HTML, CSS and jQuery site",
   "main": "index.html",
   "keywords": [],
   "license": "BSD",

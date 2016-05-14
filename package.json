@@ -1,17 +1,17 @@
 {
-    "name": "cielo",
+    "name": "simple-site",
     "version": "1.0.0",
-    "description": "",
+    "description": "The base for any simple HTML, CSS and jQuery site",
     "main": "gruntfile.js",
     "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
     },
         "repository": {
         "type": "git",
-        "url": "cielo-admin"
+        "url": "simple-site"
     },
-    "author": "",
-    "license": "ISC",
+    "author": "marcosbecker <marcosbecker@gmail.com>",
+    "license": "MIT",
     "devDependencies": {
         "grunt": "^0.4.5",
         "grunt-contrib-less": "^1.0.1",
